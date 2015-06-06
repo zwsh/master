@@ -1,0 +1,7 @@
+total 3
+5771179 drwxr-xr-x    6 admin    Administ        0 Jun  6  2015 .
+ 537781 drwxr-xr-x    3 admin    Administ        0 Jun  6 05:22 ..
+1707948 drwxr-xr-x   15 admin    Administ     4096 Jun  6 05:27 .git
+ 799797 -rw-r--r--    1 admin    Administ       21 Jun  6 05:22 README.md
+ 472124 -rw-r--r--    1 admin    Administ        0 Jun  6  2015 test.txt
+ 472112 drwxr-xr-x    2 admin    Administ        0 Jun  6 05:23 海贼王
